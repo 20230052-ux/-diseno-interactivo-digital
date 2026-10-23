@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="CSS/estilos.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <title>Proyectos - Evelin Narvaez</title>
+</head>
+
+<body class="proyecto-body">
+
+    <!-- Encabezado simplificado -->
+    <header id="encabezado">
+        <div class="header-container">
+            <figure id="logotipo">
+                <img src="img/Logo.png" alt="Logotipo" />
+            </figure>
+        </div>
+    </header>
+
+    <!-- PROYECTO 1: WINGS -->
+    <main id="p1" class="contenedor-proyecto vista-proyecto">
+        <section class="info-proyecto">
+            <h1 class="titulo-proyecto">WINGS</h1>
+            <p class="subtitulo-proyecto">FAN-ART</p>
+            <p class="descripcion-proyecto">
+                Una composición de estilos donde se utilizó ilustración y foto para poder hacer una escena que fuera mágica.
+            </p>
+            <div class="numero-proyecto">1</div>
+            <a href="index.html#portafolio" class="boton-regreso">Regreso</a>
+        </section>
+        <section class="galeria-proyecto">
+            <div class="marco-imagen marco-oscuro">
+                <img src="img/Work1.png" alt="Proyecto Wings" />
+            </div>
+        </section>
+    </main>
+
+    <!-- PROYECTO 2: FASHION -->
+    <main id="p2" class="contenedor-proyecto vista-proyecto">
+        <section class="info-proyecto">
+            <h1 class="titulo-proyecto">FASHION</h1>
+            <p class="subtitulo-proyecto">MODA</p>
+            <p class="descripcion-proyecto">
+                Una ilustración promocional para un cartel donde existe una pasarela de moda, para tener difusión.
+            </p>
+            <div class="numero-proyecto">2</div>
+            <a href="index.html#portafolio" class="boton-regreso">Regreso</a>
+        </section>
+        <section class="galeria-proyecto">
+            <div class="marco-imagen marco-claro">
+                <img src="img/Work2.png" alt="Proyecto Fashion" />
+            </div>
+        </section>
+    </main>
+
+    <!-- PROYECTO 3: POSTAL -->
+    <main id="p3" class="contenedor-proyecto vista-proyecto">
+        <section class="info-proyecto">
+            <h1 class="titulo-proyecto">POSTAL</h1>
+            <p class="subtitulo-proyecto">NAVIDAD</p>
+            <p class="descripcion-proyecto">
+                Una ilustración para las fechas de decembrina festejando esos días importantes.
+            </p>
+            <div class="numero-proyecto">3</div>
+            <a href="index.html#portafolio" class="boton-regreso">Regreso</a>
+        </section>
+        <section class="galeria-proyecto">
+            <div class="marco-imagen marco-oscuro">
+                <img src="img/Work3.png" alt="Proyecto Postal" />
+            </div>
+        </section>
+    </main>
+
+    <!-- PROYECTO 4: ITALIA -->
+    <main id="p4" class="contenedor-proyecto vista-proyecto">
+        <section class="info-proyecto">
+            <h1 class="titulo-proyecto">ITALIA</h1>
+            <p class="subtitulo-proyecto">VIAJE</p>
+            <p class="descripcion-proyecto">
+                Una ilustración promocional sobre la botella NAKED en donde se uso la tecnica de vectores.
+            </p>
+            <div class="numero-proyecto">4</div>
+            <a href="index.html#portafolio" class="boton-regreso">Regreso</a>
+        </section>
+        <section class="galeria-proyecto">
+            <div class="marco-imagen marco-claro">
+                <img src="img/Work4.png" alt="Proyecto Italia" />
+            </div>
+        </section>
+    </main>
+
+    <!-- PROYECTO 5: RANAS -->
+    <main id="p5" class="contenedor-proyecto vista-proyecto">
+        <section class="info-proyecto">
+            <h1 class="titulo-proyecto">RANAS</h1>
+            <p class="subtitulo-proyecto">PAISAJE</p>
+            <p class="descripcion-proyecto">
+                Una ilustración donde se muestra un paisaje magico igualmente fan-art y la tecnica de foto con ilustración.
+            </p>
+            <div class="numero-proyecto">5</div>
+            <a href="index.html#portafolio" class="boton-regreso">Regreso</a>
+        </section>
+        <section class="galeria-proyecto">
+            <div class="marco-imagen marco-oscuro">
+                <img src="img/Work5.png" alt="Proyecto Ranas" />
+            </div>
+        </section>
+    </main>
+
+    <!-- PROYECTO 6: VALERIA -->
+    <main id="p6" class="contenedor-proyecto vista-proyecto">
+        <section class="info-proyecto">
+            <h1 class="titulo-proyecto">VALERIA</h1>
+            <p class="subtitulo-proyecto">SOL</p>
+            <p class="descripcion-proyecto">
+                una fotografía natural donde se buscaba capturar el paisaje, a modo editorial.
+            </p>
+            <div class="numero-proyecto">6</div>
+            <a href="index.html#portafolio" class="boton-regreso">Regreso</a>
+        </section>
+        <section class="galeria-proyecto">
+            <div class="marco-imagen marco-claro">
+                <img src="img/Work6.png" alt="Proyecto Valeria" />
+            </div>
+        </section>
+    </main>
+
+    <!-- PROYECTO 7: RED-CAR -->
+    <main id="p7" class="contenedor-proyecto vista-proyecto">
+        <section class="info-proyecto">
+            <h1 class="titulo-proyecto">RED-CAR</h1>
+            <p class="subtitulo-proyecto">PUBLICIDAD</p>
+            <p class="descripcion-proyecto">
+                una fotografía en estudio, donde uso la tecnica de luces para poder capturar el carro de metal de los años 70's
+            </p>
+            <div class="numero-proyecto">7</div>
+            <a href="index.html#portafolio" class="boton-regreso">Regreso</a>
+        </section>
+        <section class="galeria-proyecto">
+            <div class="marco-imagen marco-oscuro">
+                <img src="img/Work7.png" alt="Proyecto Red-Car" />
+            </div>
+        </section>
+    </main>
+
+    <!-- PROYECTO 8: OLD FASHION -->
+    <main id="p8" class="contenedor-proyecto vista-proyecto">
+        <section class="info-proyecto">
+            <h1 class="titulo-proyecto">OLD FASHION</h1>
+            <p class="subtitulo-proyecto">ABREGO</p>
+            <p class="descripcion-proyecto">
+                una fotografía en estudio con concepto retro/editorial utilizando atuendos y accesorios característicos.
+            </p>
+            <div class="numero-proyecto">8</div>
+            <a href="index.html#portafolio" class="boton-regreso">Regreso</a>
+        </section>
+        <section class="galeria-proyecto">
+            <div class="marco-imagen marco-oscuro">
+                <img src="img/Work8.png" alt="Proyecto Old Fashion" />
+            </div>
+        </section>
+    </main>
+
+    <!-- Franja inferior del patrón japonés -->
+    <footer class="franja-patron"></footer>
+
+    <!-- Control de visibilidad para mostrar solo el proyecto activo -->
+    <script>
+        function actualizarProyecto() {
+            const hash = window.location.hash || '#p1';
+            const proyectos = document.querySelectorAll('.vista-proyecto');
+            
+            proyectos.forEach(p => p.style.display = 'none');
+            
+            const proyectoActivo = document.querySelector(hash);
+            if (proyectoActivo) {
+                proyectoActivo.style.display = 'flex';
+            } else {
+                document.getElementById('p1').style.display = 'flex';
+            }
+        }
+
+        window.addEventListener('load', actualizarProyecto);
+        window.addEventListener('hashchange', actualizarProyecto);
+    </script>
+</body>
+</html>
